@@ -1,0 +1,29 @@
+
+[font]
+size = 11.0
+
+[font.bold]
+family = "iosevkatermnerdfont"
+style = "Bold"
+
+[font.bold_italic]
+family = "iosevkatermnerdfont"
+style = "Bold Italic"
+
+[font.italic]
+family = "iosevkatermnerdfont"
+style = "Italic"
+
+[font.normal]
+family = "iosevkatermnerdfont"
+style = "Regular"
+
+[window]
+opacity = 0.8
+
+[window.padding]
+x = 12
+y = 12
+
+[general]
+import = ["/home/jordan/.config/alacritty/themes/themes/gruvbox_material.toml"]
