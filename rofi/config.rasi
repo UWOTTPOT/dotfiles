@@ -1,0 +1,16 @@
+@theme "/nix/store/ij44x3sgc9mqzvkjv1qfkbm55g1mi94w-rofi-2.0.0/share/rofi/themes/gruvbox-dark-soft.rasi"
+configuration {
+	font: "JetBrainsMono Nerd Font 12";
+	matching: "fuzzy";
+	}
+
+window {
+    width: 512px;
+    location: north;
+    anchor: north;
+    y-offset: 256px;
+    }
+
+listview {
+    lines: 8;
+    }
